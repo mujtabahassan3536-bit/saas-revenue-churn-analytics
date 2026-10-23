@@ -1,0 +1,5 @@
+pandas
+numpy
+Faker
+streamlit
+mysql-connector-python
